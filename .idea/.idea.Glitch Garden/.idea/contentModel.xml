@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HalukErd\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HalukErd\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_Glitch Garden.-982120498.00" t="ExcludeRecursive" />
+    <e p="C:\Users\HalukErd\Desktop\Unity2d\Glitch Garden" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Free_Pack" t="Include">
+          <e p="BURLY-MAN_1_swordsman" t="Include">
+            <e p="Free_GM.cs" t="Include" />
+          </e>
+          <e p="Demo_GameResource" t="Include">
+            <e p="Script" t="Include">
+              <e p="CharacterController_2D.cs" t="Include" />
+              <e p="ColliderEvent_Sender.cs" t="Include" />
+              <e p="Demo_GM.cs" t="Include" />
+              <e p="DestroyEffect.cs" t="Include" />
+              <e p="WoodDoll_Mgr.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MusicPlayer.cs" t="Include" />
+        <e p="OptionsController.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Attacker.cs" t="Include" />
+          <e p="AttackerSpawner.cs" t="Include" />
+          <e p="BaseArea.cs" t="Include" />
+          <e p="BloodEffect.cs" t="Include" />
+          <e p="CoreGameArea.cs" t="Include" />
+          <e p="Defender.cs" t="Include" />
+          <e p="DefenderButton.cs" t="Include" />
+          <e p="DefenderSpawner.cs" t="Include" />
+          <e p="Fox.cs" t="Include" />
+          <e p="Gravestone.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
+          <e p="HealthDisplay.cs" t="Include" />
+          <e p="LevelController.cs" t="Include" />
+          <e p="LevelLoader.cs" t="Include" />
+          <e p="Lizard.cs" t="Include" />
+          <e p="PlayerPrefsController.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="StarDisplay.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Glitch Garden.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
